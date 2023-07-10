@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SE1620_HE150191_NguyenHungThanh</string>
+    <string name="bird_management">Bird management</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="region">region</string>
+    <string name="species">species</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="list">LIST</string>
+</resources>
